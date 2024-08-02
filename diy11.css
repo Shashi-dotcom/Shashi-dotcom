@@ -1,0 +1,166 @@
+.edu {
+    background-color: green;
+    height: 45px;
+  }
+  
+  .Login {
+    color: white;
+    background-color: transparent;
+    border: 0;
+    position: absolute;
+    right: 20%;
+    bottom: 95%;
+  }
+  
+  .create {
+    position: absolute;
+    right: 11%;
+    bottom: 95%;
+    border: transparent;
+  }
+  
+  .div1 {
+    margin: auto;
+    border: 2px solid blue;
+    height: 650px;
+    width: 80%;
+  }
+  
+  .div2 {
+    border: 2px solid whitesmoke;
+    height: 565px;
+    width: 15%;
+  }
+  
+  .div3 {
+    border: 2px solid whitesmoke;
+    position: absolute;
+    height: 200px;
+    width: 50%;
+    top: 18%;
+    right: 400px;
+  }
+  
+  .idli {
+    right: 10%;
+    border: 2px solid white;
+    color: black;
+    position: absolute;
+    top: 10%;
+    left: 170px;
+    height: 150px;
+    width: 70%;
+  }
+  
+  .idli1 {
+    margin-left: 15px;
+    margin-top: 15px;
+    border-radius: 20px 20px 20px 20px;
+  }
+  
+  .hr {
+    width: 95%;
+  }
+  
+  .div4 {
+    border: 2px solid white;
+    margin-left: 5%;
+    width: 70%;
+  }
+  
+  .b1 {
+    margin-left: 0.2%;
+  }
+  
+  .b2 {
+    margin-left: 15%;
+  }
+  
+  .b3 {
+    margin-left: 0;
+  }
+  
+  .b4 {
+    margin-left: 7%;
+  }
+  
+  .div5 {
+    border: 2px solid whitesmoke;
+    position: absolute;
+    height: 200px;
+    width: 100%;
+    top: 120%;
+    right: 1px;
+  }
+  
+  .idli {
+    right: 10%;
+    border: 2px solid white;
+    color: black;
+    position: absolute;
+    top: 10%;
+    left: 170px;
+    height: 150px;
+    width: 70%;
+  }
+  
+  .idli1 {
+    margin-left: 15px;
+    margin-top: 15px;
+    border-radius: 20px 20px 20px 20px;
+  }
+  
+  .hr {
+    width: 95%;
+  }
+  
+  .div4 {
+    border: 2px solid white;
+    margin-left: 5%;
+    width: 70%;
+  }
+  
+  .b1 {
+    margin-left: 0.2%;
+  }
+  
+  .b2 {
+    margin-left: 15%;
+  }
+  
+  .b3 {
+    margin-left: 0;
+  }
+  
+  .b4 {
+    margin-left: 7%;
+  }
+  
+  .nextpage {
+    border: 1px solid transparent;
+    height: 30px;
+    width: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    bottom: -170%;
+    right: 30%;
+    background-color: lightslategray;
+  }
+  
+  .box {
+    background-color: lightslategray;
+    border: 1px solid green;
+    height: 30px;
+    width: 30px;
+    margin-top: 3px;
+    text-align: center;
+    line-height: 30px;
+  }
+  
+  @media screen and (max-width: 500px) {
+    body {
+      color: aqua;
+    }
+  }/*# sourceMappingURL=diy11.css.map */
+  

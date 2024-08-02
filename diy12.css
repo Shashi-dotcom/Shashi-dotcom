@@ -1,0 +1,20 @@
+.row{
+    background-color: lightcoral;
+    height: 50px;
+}
+.bluediv{
+    background-color: skyblue;
+    height: 50px;
+    border: 1px solid black;
+}
+.reddiv{
+    background-color: red;
+    height: 50px;
+    border: 1px solid black;
+}
+.greendiv{
+    background-color: green;
+    border: 1px solid black;
+    height: 50px;
+
+}

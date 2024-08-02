@@ -1,0 +1,119 @@
+.pic{
+    height: 500px;
+    width: 100%;
+}
+.login{
+    color: white;
+    background-color: transparent;
+    border: 0;
+    position: relative;
+    top: -500px;
+    right: -1200px;
+}
+.create{
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    position: absolute;
+    top: 1.7%;
+    right: 8%;
+}
+.h1{
+    position: absolute;
+    top: 25%;
+    right: 42%;
+    color: white;
+}
+.datalist{
+    position: absolute;
+    top: 34%;
+    right: 52%;
+}
+.input{
+    position: absolute;
+    top: 34%;
+    right: 40%;
+}
+.bor{
+    border: 2px solid black;
+    margin: auto;
+    width: 80%;
+}
+.img1{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.breakfast{
+    border: 1px solid brown;
+    width: 30%;
+    text-align: center;
+    line-height: 35px;
+}
+.img2{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.lunch{
+    border: 1px solid brown;
+    width: 30%;
+    text-align: center;
+    line-height: 35px;
+}
+.img3{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.snacks{
+    border: 1px solid brown;
+    width: 30%;
+    text-align: center;
+    line-height: 35px;
+}
+.img4{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.dinner{
+    border: 1px solid brown;
+    width: 30%;
+    text-align: center;
+    line-height: 35px;
+}
+.img5{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.drinks{
+    border: 1px solid brown;
+    width: 30%;
+    text-align: center;
+    line-height: 35px;
+}
+.img6{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.nightlife{
+    border: 1px solid brown;
+    width: 30%;
+    text-align: center;
+    line-height: 35px;
+}
+.box{
+    border: 1px solid gold;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+@media screen and (max-width:500px) {
+    body{
+        color: tomato;
+    }
+    
+}
